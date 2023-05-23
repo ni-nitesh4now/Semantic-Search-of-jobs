@@ -19,9 +19,10 @@ This is a Python script that performs semantic search on a dataset of job posts.
 
    ```shell
    git clone https://github.com/username/repo.git
-   cd repo```
+   cd repo
 2. Install the required dependencies:
-```pip install -r requirements.txt```
+   ```shell
+   pip install -r requirements.txt
 
 ## Usage
 
@@ -30,7 +31,8 @@ Prepare the dataset:
 Make sure the job post dataset file (data job posts.csv) is present in the same directory as the script.
 Optionally, modify the code to adjust the number of records to process (df = df.head(5000)).
 Run the script:
-```python job_post_semantic_search.py```
+   ```shell
+   python job_post_semantic_search.py```
 
 Enter your search query when prompted. For example:
 
