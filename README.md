@@ -1,4 +1,4 @@
-#Download the Dataset from here:
+# Download the Dataset from here:
 https://www.kaggle.com/madhab/jobposts
 
 # Job Post Semantic Search
@@ -23,7 +23,8 @@ This is a Python script that performs semantic search on a dataset of job posts.
 2. Install the required dependencies:
 ```pip install -r requirements.txt```
 
-##Usage
+## Usage
+
 Prepare the dataset:
 
 Make sure the job post dataset file (data job posts.csv) is present in the same directory as the script.
