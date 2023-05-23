@@ -32,7 +32,7 @@ Make sure the job post dataset file (data job posts.csv) is present in the same 
 Optionally, modify the code to adjust the number of records to process (df = df.head(5000)).
 Run the script:
    ```shell
-   python job_post_semantic_search.py```
+   python job_post_semantic_search.py
 
 Enter your search query when prompted. For example:
 
